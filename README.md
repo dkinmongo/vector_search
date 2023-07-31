@@ -3,7 +3,7 @@
 ## 1. Face Recognition Sample
 
 - File: face_recognition.ipynb
-- Image Directory: Sample Images
+- Image Directory: images
 
 A sample code that utilizes facial recognition to perform similarity checks between the faces of Zuckerberg and Elon Musk.
 
