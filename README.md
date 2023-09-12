@@ -20,3 +20,4 @@ A sample code that demonstrates the usage of NLP (Natural Language Processing) m
 - File: langchain_insurance.ipynb
 
 This sample code showcases the implementation of a generative AI app using Langchain. It reads the Samsung Fire & Marine Insurance policy with its pdf reader and builds a vector database. Subsequently, it performs vector searches based on user queries and refines the results using LLM (GPT-3.5) for internal FAQ and chatbot functionalities.
+This is a demo that allows users to achieve the desired results through prompt engineering.
